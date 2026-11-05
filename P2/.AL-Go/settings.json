@@ -4,5 +4,6 @@
   "country": "us",
   "AppSourceCopMandatoryAffixes": [
     "cus"
-  ]
+  ],
+  "repoVersion": "2.1"
 }
