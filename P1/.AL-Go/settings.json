@@ -7,5 +7,6 @@
   "appSourceCopMandatoryAffixes": [
     "hw_",
     "cus"
-  ]
+  ],
+  "repoVersion": "3.0"
 }
